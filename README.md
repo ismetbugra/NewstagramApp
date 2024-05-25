@@ -1,0 +1,11 @@
+Kotlin dili ile geliştirilmiş Haber uygualamasıdır.
+-Retrofit
+-Room Database
+-MVVM
+-Repository
+-DataSource pattern
+-Navigation components with Fragments and BottomNav Bar
+-Android Jetpack
+-Dagger-Hilt dependency injection
+-Searchview and Webview
+-Splash Screen
